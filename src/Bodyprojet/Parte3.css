@@ -1,0 +1,23 @@
+.part4{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.b{
+    border-radius: 5px;
+    padding-right: 50px;
+    height: 46px;
+    font-size: 15px;
+}
+.img5{
+    
+    
+    
+   
+}
+.drop{
+    border-radius: 5px;
+    padding-right: 50px;
+    height: 46px;
+    font-size: 15px;
+}

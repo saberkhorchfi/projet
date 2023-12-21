@@ -1,0 +1,43 @@
+.rech{
+    min-width: 519px;
+    border-radius: 5px;
+    padding-right: 50px;
+    height: 46px;
+    font-size: 15px;
+
+}
+.img1{
+    max-width: 290px;
+    max-height: 60px;
+    
+}
+.rech1{
+    border-radius: 5px;
+    padding-right: 50px;
+    height: 46px;
+    font-size: 15px;
+    
+
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+.img3{
+    min-width: 3px;
+   
+    
+    height: 38px;
+    
+
+}
+.butt2{
+    min-width: 3px;
+    border-radius: 5px;
+    padding-right: 50px;
+    height: 46px;
+    font-size: 15px;
+
+
+}
